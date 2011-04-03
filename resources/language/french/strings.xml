@@ -34,9 +34,20 @@
   <string id="30052">32 bit</string>
   <string id="30053">64 bit</string>
 
+  <string id="30060">Téléchargement</string>
+  <string id="30061">Toujours demander le dossier de téléchargement</string>
+  <string id="30062">Dossier de téléchargement</string>
+  <string id="30063">Chemin complet de rtmpdump</string>
+
   <!--DIALOG STRINGS -->
   <string id="30201">Erreur!</string>
   <string id="30202">Impossible de determiner la plateforme</string>
   <string id="30203">Veuillez la configurer manuellement</string>
   <string id="30204">Plateforme invalide</string>
+  <string id="30205">Téléchargement en cours</string>
+  <string id="30206">Téléchargement terminé</string>
+  <string id="30207">Erreur de téléchargement</string>
+  <string id="30208">Téléchargement annulé</string>
+  <string id="30209">existe</string>
+
 </strings>

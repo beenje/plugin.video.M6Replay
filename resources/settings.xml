@@ -24,5 +24,11 @@
 
 	</category>
     
+    <!-- DOWNLOAD -->
+	<category label="30060">
+            <setting id="downloadMode" type="bool" default="true" label="30061" />
+            <setting id="downloadPath" type="folder" source="auto" default="" enable="eq(-1,false)" option="writeable" label="30062" />
+            <setting id="rtmpdump" type="file" default="" label="30063" />
+	</category>
     
 </settings>

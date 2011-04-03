@@ -34,9 +34,20 @@
   <string id="30052">32 bit</string>
   <string id="30053">64 bit</string>
 
+  <string id="30060">Download</string>
+  <string id="30061">Always Ask for Download Location</string>
+  <string id="30062">Download Folder</string>
+  <string id="30063">rtmpdump full path</string>
+
   <!--DIALOG STRINGS -->
   <string id="30201">Error!</string>
   <string id="30202">Impossible to determine the platform</string>
   <string id="30203">Please configure it manually</string>
   <string id="30204">Invalid Platform</string>
+  <string id="30205">Download in progress</string>
+  <string id="30206">Download complete</string>
+  <string id="30207">Download failed</string>
+  <string id="30208">Download cancelled</string>
+  <string id="30209">exists</string>
+
 </strings>
