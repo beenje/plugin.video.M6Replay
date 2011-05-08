@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.M6Replay"
+       name="M6 Replay"
+       version="1.4.4"
+       provider-name="PECK, mighty_bombero, merindol, Temhil (passion-xbmc.org)">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Rattrapage M6</summary>
+    <description>Plugin vidéo donnant accès aux vidéos de rattrapage de la chaîne française M6</description>
+  </extension>
+</addon>

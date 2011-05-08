@@ -1,0 +1,40 @@
+1.4.4 (06-03-2011) par Temhil et beenje
++ Ajout de pycrypto pour openELEC (patch de beenje)
++ Ajout selection de la plateforme dans les parametres
++ Configure le serveur 3 par defaut 
++ Support vue Media Info pour les videos
+
+1.4.3 (23-02-2011) par Temhil
++ Ajout du serveur 3
+
+1.4.2 (23-02-2011) par Temhil
++ Configure le serveur 2 par defaut (a la place sur serveur 1)
+
+1.4.1 (22-02-2011) par Temhil et beenje
++ Ajout de pycrypto pour ATV2 (patch de beenje)
++ Correction bug encodage (patch de beenje)
++ Correction bug affichage des jours de la semaines (decalage)
+    
+1.4.0 (02-01-2011) par Temhil
++ Ajout du choix du serveur dans les parametres du plugin
++ Utilisation de setResolvedUrl permettant d'utiliser le player par defaut d'XBMC:
+  . Cela evite des problemes d'affichage lors du chargement de la video
+  . permet le transfert automatique des informations (nom, icone) au player d'XBMC
++ Ajout de la bibliothèque "python-crypto" pour platformes MacOSX 32bits et XBOX
++ Ajout de la description de la video (resume, date de diffusion, date de fin, duree)
++ Activation du Tri
++ Resolution du bug lorsque les images affichee ne correspondaint pas a la categorie. 
+  On efface desormais les thumbs du cache a chaque fois, le chargement des images sera donc plus
+  lent, mais a moins de faire d'importantes modification du design actuel, cette solution reste
+  un bon compromis 
+
+1.3.0 (08-11-2010) par merindol
++ Affichage des différentes versions des medias quand il y en a (VF, VOSTFR, ...) 
++ Dans les paramètres du addon, possibilité de définir le délai de rafraichissement de la liste des vidéos
++ Création du « changelog »
+
+1.2.0 (06-11-2010) par merindol
++ Le déchiffrage du catalogue se fait désormais grâce à la bibliothèque "python-crypto" embarquée
+
+1.0.0 par PECK et mighty_bombero
++ Addon originel dérivé du addon W9Replay

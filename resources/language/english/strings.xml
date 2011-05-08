@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <!-- Les strings de 30000 à 30999 sont réservées aux paramètres plug-in -->
+  <!--GENERAL STRINGS -->
+  <string id="30000">M6 Replay</string>
+  <string id="30001">Diffusé le: </string>
+  <string id="30002">Disponible jusqu'au: </string>
+
+  <!--SETTINGS STRINGS -->
+  <string id="30010">Video Catalog</string>
+  <string id="30011">Catalog refresh delay (sec)</string>
+  
+  <string id="30020">Server</string>
+  <string id="30021">Video Server</string>
+  <string id="30022">Server 1</string>
+  <string id="30023">Server 2</string>
+  <string id="30024">Server 3</string>
+
+  <string id="30030">Debug</string>
+  <string id="30031">Activate Debug mode</string>
+  
+  <string id="30040">Advanced settings</string>
+  <string id="30041">Automatic platform selection</string>
+  <string id="30042">Platform description</string>
+  <string id="30043">OS type</string>
+  <string id="30045">Windows</string>
+  <string id="30046">MAC (non ARM)</string>
+  <string id="30047">MAC (ARM)</string>
+  <string id="30048">Linux</string>
+  <string id="30049">Xbox</string>
+
+  <string id="30050">Platform</string>
+  <string id="30051">CPU</string>
+  <string id="30052">32 bit</string>
+  <string id="30053">64 bit</string>
+
+  <!--DIALOG STRINGS -->
+  <string id="30201">Error!</string>
+  <string id="30202">Impossible to determine the platform</string>
+  <string id="30203">Please configure it manually</string>
+  <string id="30204">Invalid Platform</string>
+</strings>
