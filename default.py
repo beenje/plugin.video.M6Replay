@@ -108,7 +108,7 @@ dirCheckList   = ( CACHEDIR, )
 # Check the platform
 SYSTEM_PLATFORM = None
 CRYPTO_PATH = None
-if ( __settings__.getSetting('autoplatform') == 'true'):
+if ( __settings__.getSetting('autoplatform') == 'false'):
     os_type_list = ['Windows', 'mac', 'mac_arm', 'Linux', 'Xbox']
     cpu_type_list = ['32bit', '64bit']
     paths = []
